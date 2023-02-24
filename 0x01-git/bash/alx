@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "ALX"\necho "ALX School"
+echo "ALX School"\necho "ALX School is so cool!"
